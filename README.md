@@ -60,7 +60,7 @@ O **Front-End** deverá ser feito a seu critério e justificando o porque da sol
 
 
 
-Qualquer dúvida sobre os requisitos, você pode enviar um e-mail para mateus.vieira@dmcard.com.br
+Qualquer dúvida sobre os requisitos, você pode enviar um e-mail para mateus.vieira@oncar.com.br
 
 
 
