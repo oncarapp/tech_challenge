@@ -23,7 +23,7 @@ Crie uma API Restful, que permitirá:
 
 - Veículo
   - **GET**: Listará todos ou apenas um veículo
-  - **POST**: Deve inserir uma nova solicitação de veículo.
+  - **POST**: Deve inserir uma novo veículo.
   - **DELETE**: Remove um veículo
 
 - Simulação
