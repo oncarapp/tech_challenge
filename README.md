@@ -54,7 +54,7 @@ No Front, deverá ser listado todos os carros, com a possibilidade da inclusão 
 
 As rotas de alteração/deleção deverão ser expostas de alguma maneira, para serem utilizadas ou por um painel administrativo ou por ferramentas de requisições http (**POSTMAN**)
 
-O **Back-End** do projeto deverá ser feito em **Python ou Node.JS**, utilizando um framework de sua escolha.
+O **Back-End** do projeto deverá ser feito em **Golang ou Node.JS**, utilizando um framework de sua escolha.
 
 O **Front-End** deverá ser feito a seu critério e justificando o porque da solução escolhida, nós achamos o React interessante.
 
